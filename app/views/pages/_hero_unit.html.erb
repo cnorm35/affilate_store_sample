@@ -1,0 +1,77 @@
+<div class="container">
+    <div class="col-sm-12">
+        <div class="center-block text-center">
+            <h1>STAR WARS SWAG</h1>
+            <p class="lead">Fine goods from across the galaxy</p>
+            <hr>
+        </div>
+        <div class="container">
+            <div class="menu row">
+                <div class="product col-sm-6">
+                <%= link_to 'http://www.amazon.com/Funko-Pop-Star-Wars-Stormtrooper/dp/B013G0J7FO/?tag=stwasw-20' do %>
+                  <%= image_tag('http://ecx.images-amazon.com/images/I/41Krm7ywtdL.jpg', class: 'img-responsive', id: 'hero-product-image') %>
+                  <% end %>
+					<hr>
+                    <h2>Heavy Artillery First Order Stormtrooper</h2>
+                    <p> Heavy Artillery First Order Stormtrooper Pop from Funko! Figure stands 3 3/4 inches and comes in a window display box. Check out the other POP figures from Funko! Collect them all</p>
+                    <p>Don't miss your chance to be part of a new wave of classics!</p>
+                    <hr>
+                  	<h2 class="text">$12.99</h2>
+                    <button class="btn btn-primary btn-lg">View</button>
+                </div>
+
+                <div class="col-sm-6">
+                    <div class="productsrow">
+                        <%= link_to most_popular_path do %>
+                            <div class="product menu-category">
+                                <div class="menu-category-name list-group-item active">Trending</div>
+                                <div class="product-image">
+                                    <img class="product-image menu-item list-group-item" src="http://ecx.images-amazon.com/images/I/81ajOkPnqdL._SX522_.jpg" alt="bb8-droid">
+                                </div>
+                            </div>
+                        <% end %>
+                        <%= link_to apparel_path do %>
+                            <div class="product menu-category">
+                                <div class="menu-category-name list-group-item active">Apparel</div>
+                                <div class="product-image">
+                                    <img class="product-image menu-item list-group-item" src="https://img0.etsystatic.com/040/1/6025964/il_570xN.580791894_4b1v.jpg" alt="pulp-fiction-bounty-hunter">
+                                </div>
+                            </div>
+                        <% end %>
+                        <%= link_to accessories_path do %>
+                            <div class="product menu-category">
+                                <div class="menu-category-name list-group-item active">Jewlery & Accessories</div>
+                                <div class="product-image">
+                                    <img class="product-image menu-item list-group-item" src="https://img1.etsystatic.com/068/0/10308686/il_570xN.777395919_7glp.jpg">
+                                </div> 
+                            </div>
+                        <% end %>
+                        <%= link_to home_goods_path do %>
+                            <div class="product menu-category">
+                                <div class="menu-category-name list-group-item active">Home Goods</div>
+                                <div class="div-image">
+                                    <img class="product-image menu-item list-group-item" src="https://img1.etsystatic.com/020/0/7570930/il_570xN.564479111_9xs7.jpg">
+                                </div> 
+                            </div>
+                        <% end %>
+                        <%= link_to toys_path do %>
+                            <div class="product menu-category">
+                                <div class="menu-category-name list-group-item active">Toys</div>
+                                <div class="product-image">
+                                    <img class="product-image menu-item list-group-item" src="http://ecx.images-amazon.com/images/I/51UKMkn9DwL.jpg">
+                                </div> 
+                            </div>
+                        <% end %>
+
+
+                    </div>
+                </div>
+            </div>
+            <!--/row-->
+            <%= render 'subscription_form' %>
+        </div>
+        <!--/container-->
+    </div>
+</div>
+
+<hr>

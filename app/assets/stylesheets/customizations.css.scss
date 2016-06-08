@@ -1,0 +1,266 @@
+@import "bootstrap-sprockets";
+@import "bootswatch/yeti/variables";
+@import "bootstrap";
+@import "bootswatch/yeti/bootswatch";
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+
+	/*
+	A custom Bootstrap 3.2 theme from http://bootply.com
+	This CSS code should follow the 'bootstrap.css'
+	in your HTML file.
+
+	license: MIT
+	author: bootply.com
+	*/
+	
+	#facebook-follow {
+		margin-top: 10px;
+	}
+
+	#facebook-page-icon {
+		color: black;
+	}
+
+	#stumbleupon-submit-icon {
+		color: black;
+	}
+
+	#hero-product-image {
+		margin: 0px auto;
+	}
+
+	.admin-section {
+		height: 400px;
+		overflow: scroll;
+	}
+
+	.productsrow {
+	 -moz-column-width: 18em;
+	 -webkit-column-width: 18em;
+	 -moz-column-gap: 1em;
+	 -webkit-column-gap: 1em;
+	}
+	  
+	.menu-category {
+	 display: inline-block;
+	 margin-bottom:  0.25rem;
+	 padding:  1rem;
+	 width:  100%; 
+	}
+
+	.product-image {
+	 width: 100%;
+	}
+
+	.product {
+	 padding-top:22px;  
+	}
+
+	.btn-product {
+	 background-color:#222;
+	 color:#eee;
+	 border-radius:0;
+	}
+
+	/* end custom CSS */
+
+	/*for Devise Rememver me box*/
+	  #user_remember_me {
+	    margin-left: 0px;
+	  }
+
+	  .product-edit-link > a {
+	   	color: white !important;
+	  }
+
+	  div > div.caption > p > a {
+	  	color: white !important;
+	  }
+
+	  .product-form-button {
+	  	margin-top: 15px;
+	  }
+	  /*flash*/
+	  .alert-error {
+	      background-color: #f2dede;
+	      border-color: #eed3d7;
+	      color: #b94a48;
+	      text-align: left;
+	   }
+	  .alert-alert {
+	      background-color: #f2dede;
+	      border-color: #eed3d7;
+	      color: #b94a48;
+	      text-align: left;
+	   }
+	  .alert-success {
+	      background-color: #dff0d8;
+	      border-color: #d6e9c6;
+	      color: #468847;
+	      text-align: left;
+	   }
+	  .alert-notice {
+	      background-color: #dff0d8;
+	      border-color: #d6e9c6;
+	      color: #468847;
+	      text-align: left;
+	   }
+
+	.stormtrooper-logo {
+		display: inherit;
+		margin: 0 auto;
+		fill: #9d9d9d;
+		height: 4em;
+		padding-top: 10px;
+		padding-right: 0px;
+		float: left;
+	}
+
+
+	.product-container {
+		padding-top: 5em;
+	}
+
+	.product
+
+	.about-text {
+		font-size: 2em;
+	}
+
+	.about-contact {
+		
+	}
+
+
+/* About page styling template */
+	.business-header {
+	    height: 400px;
+	    background: url('https://s3.amazonaws.com/star-wars-swag-assets/hero_background.jpg') center center no-repeat scroll;
+	    -webkit-background-size: cover;
+	    -moz-background-size: cover;
+	    background-size: cover;
+	    -o-background-size: cover;
+	}
+
+	.tagline {
+	  text-shadow: 0 0 10px #000;
+	  color: #fff;
+	}
+
+	.img-center {
+	  margin: 0 auto;
+	}
+
+	.about-container {
+		padding-top: 50px;
+	}
+
+/* About page template style end */
+
+	body {
+		font-family: "Droid Sans", arial, verdana, sans-serif;
+	}
+
+	.center {
+		text-align: center;
+	}
+
+	/*for Devise Rememver me box*/
+	#user_remember_me {
+		margin-left: 0px;
+	}
+
+	/*flash*/
+	.alert-error {
+	    background-color: #f2dede;
+	    border-color: #eed3d7;
+	    color: #b94a48;
+	    text-align: left;
+	 }
+
+	.alert-alert {
+	    background-color: #f2dede;
+	    border-color: #eed3d7;
+	    color: #b94a48;
+	    text-align: left;
+	 }
+
+	.alert-success {
+	    background-color: #dff0d8;
+	    border-color: #d6e9c6;
+	    color: #468847;
+	    text-align: left;
+	 }
+
+	.alert-notice {
+	    background-color: #dff0d8;
+	    border-color: #d6e9c6;
+	    color: #468847;
+	    text-align: left;
+	 }
+
+/* CSS used here will be applied after bootstrap.css */
+
+.productbox {
+    position: relative;
+ border: 1px solid #ddd;
+border-radius: 4px;
+-webkit-transition: all .2s ease-in-out; 
+}
+.caption {
+	padding:10px;
+	background-color:rgba(0,0,0,0.7);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    max-height: 40%;
+    overflow: hidden;
+  	font-size: 11px;
+  color: #FFF;
+
+}
+.finalprice {
+  font-size:15px;
+    color: #AAFCAE;
+}
+h5 {
+  margin-top: 0px;
+  color: white;
+  max-height: 30px;
+  overflow: hidden;
+}
+.img-responsive img{
+	width: 100%;   
+	height: 420px; 
+}
+.container {
+	width: 100%;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  padding: 5px;
+}
+.btn-block {
+	margin-top: 5px;
+}
+.saleoffrate{
+	position: absolute;
+	top:10px;
+	left: 10px;
+	padding-top: 13px;
+	text-align:center;
+	background-color: rgba(76, 174, 76,0.8);
+	color: #FFFFFF;
+	border-radius: 50%;
+	height: 50px;
+	width: 50px;
+	line-height: 13px;
+}
+@media (min-width: 384px) and (max-width: 768px) {
+  .img-responsive img{
+      max-width: 50%;
+  }
+  .img-responsive{
+      text-align: center;
+  }  
+}
+

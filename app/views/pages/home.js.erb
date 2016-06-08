@@ -1,0 +1,2 @@
+$('#home-product-container').append('<%= escape_javascript render(@products) %>');
+$('.pagination').replaceWith('<%= escape_javascript will_paginate(@products) %>');

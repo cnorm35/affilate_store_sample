@@ -1,0 +1,58 @@
+<div class="container">
+  <h2>Clicks</h2>
+  <div class="admin-section">
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Visit ID</th>
+            <th>Type</th>
+            <th>Link</th>
+            <th>Time</th>
+          </tr>
+        </thead>
+        <tbody>
+          <% @clicks.each do |click| %>
+            <tr>
+              <td><%= click.visit_id %></td>
+              <td><%= click.name %></td>
+              <td><%=link_to click.properties["href"] %></td>
+              <td><%= click.time.strftime("%m/%d/%y @ %I:%M%p") %></td>
+            </tr>
+          <% end %>
+        </tbody>
+      </table>
+  </div> 
+  <h2>Visits</h2>
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th>Visit ID</th>
+        <th>IP</th>
+        <th>User Agent</th>
+        <th>Referrung Domain</th>
+        <th>Browser</th>
+        <th>OS</th>
+        <th>Device Type</th>
+        <th>Screen Height</th>
+        <th>Screen Width</th>
+        <th>Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @visits.each do |visit| %>
+        <tr>
+          <td><%= visit.visitor_id %></td>
+          <td><%= visit.ip %></td>
+          <td><%= visit.user_agent %></td>
+          <td><%= visit.referring_domain %></td>
+          <td><%= visit.browser %></td>
+          <td><%= visit.os %></td>
+          <td><%= visit.device_type %></td>
+          <td><%= visit.screen_height %></td>
+          <td><%= visit.screen_width %></td>
+          <td><%= visit.started_at.strftime("%m/%d/%y @ %I:%M%p") %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+</div>

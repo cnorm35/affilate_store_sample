@@ -1,0 +1,1711 @@
+
+---
+products:
+  columns:
+  - id
+  - name
+  - affiliate_url
+  - created_at
+  - updated_at
+  - image_url
+  - list_price
+  - final_price
+  - category
+  - affiliate
+  - etsy_views
+  - etsy_listing_id
+  - amazon_id
+  records: 
+  - - '1'
+    - STAR WARS Battlefront (Deluxe Edition) - PlayStation 4
+    - http://www.amazon.com/STAR-WARS-Battlefront-Deluxe-Edition-PlayStation/dp/B00W8FYF56%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00W8FYF56
+    - '2015-09-26 17:40:22.233026'
+    - '2015-09-26 17:40:22.233026'
+    - http://ecx.images-amazon.com/images/I/51Hq5U96R-L.jpg
+    - '6999'
+    - '6988'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00W8FYF56
+  - - '2'
+    - Sphero BB-8 App-Enabled Droid
+    - http://www.amazon.com/Sphero-R001USA-BB-8-App-Enabled-Droid/dp/B0107H5FJ6%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0107H5FJ6
+    - '2015-09-26 17:40:22.260334'
+    - '2015-09-26 17:40:22.260334'
+    - http://ecx.images-amazon.com/images/I/41t2ZWC9d4L.jpg
+    - '14999'
+    - '14999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0107H5FJ6
+  - - '3'
+    - STAR WARS Battlefront - PC
+    - http://www.amazon.com/STAR-WARS-Battlefront-PC/dp/B00W8FYF4W%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00W8FYF4W
+    - '2015-09-26 17:40:22.263742'
+    - '2015-09-26 17:40:22.263742'
+    - http://ecx.images-amazon.com/images/I/51nBPiOH%2BoL.jpg
+    - '5999'
+    - '5988'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00W8FYF4W
+  - - '4'
+    - 16pcs/Set STAR WARS Collection Sith Jedi Knight Building Bricks Blocks Super
+      Hero Figures Minifigures Toys Compatible With Lego
+    - http://www.amazon.com/Collection-Building-Figures-Minifigures-Compatible/dp/B00VARXNBK%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00VARXNBK
+    - '2015-09-26 17:40:22.266128'
+    - '2015-09-26 17:40:22.266128'
+    - http://ecx.images-amazon.com/images/I/51WTGH59JvL.jpg
+    - '2499'
+    - '1325'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00VARXNBK
+  - - '5'
+    - Star Wars The Force Awakens 3.75-Inch Figure Troop Builder 6-Pack [Amazon Exclusive]
+    - http://www.amazon.com/Star-Wars-Awakens-3-75-Inch-Exclusive/dp/B011EG5DNM%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB011EG5DNM
+    - '2015-09-26 17:40:22.268449'
+    - '2015-09-26 17:40:22.268449'
+    - http://ecx.images-amazon.com/images/I/51DZ%2BSfRVoL.jpg
+    - '4799'
+    - '4799'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B011EG5DNM
+  - - '6'
+    - LEGO Star Wars 75097 Advent Calendar Building Kit
+    - http://www.amazon.com/LEGO-75097-Advent-Calendar-Building/dp/B00WHXUK3K%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WHXUK3K
+    - '2015-09-26 17:40:22.270694'
+    - '2015-09-26 17:40:22.270694'
+    - 
+    - '3999'
+    - '3992'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WHXUK3K
+  - - '7'
+    - Roommates Rmk1586Scs Star Wars Classic Peel And Stick Wall Decals
+    - http://www.amazon.com/Roommates-Rmk1586Scs-Classic-Stick-Decals/dp/B004UIUG3Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004UIUG3Y
+    - '2015-09-26 17:40:22.273033'
+    - '2015-09-26 17:40:22.273033'
+    - http://ecx.images-amazon.com/images/I/51VJkPbYwzL.jpg
+    - '1399'
+    - '438'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B004UIUG3Y
+  - - '8'
+    - Air Hogs Star Wars Remote Control Ultimate Millennium Falcon Quad
+    - http://www.amazon.com/Air-Hogs-Control-Ultimate-Millennium/dp/B00U7EXH72%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00U7EXH72
+    - '2015-09-26 17:40:22.275198'
+    - '2015-09-26 17:40:22.275198'
+    - http://ecx.images-amazon.com/images/I/41kWB4Z4PTL.jpg
+    - '10999'
+    - '13900'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00U7EXH72
+  - - '9'
+    - Star Wars Journey to The Force Awakens Blaster Cards
+    - http://www.amazon.com/Journey-Force-Awakens-Blaster-Cards/dp/B00XRWK7BU%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00XRWK7BU
+    - '2015-09-26 17:40:22.277267'
+    - '2015-09-26 17:40:22.277267'
+    - http://ecx.images-amazon.com/images/I/41NXvk8-R0L.jpg
+    - '1999'
+    - '1674'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00XRWK7BU
+  - - '10'
+    - Star Wars Silicone Ice Tray Set Of 6
+    - http://www.amazon.com/Star-Wars-Silicone-Ice-Tray/dp/B007JN8918%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007JN8918
+    - '2015-09-26 17:40:22.279471'
+    - '2015-09-26 17:40:22.279471'
+    - http://ecx.images-amazon.com/images/I/41AxsqxI%2BFL.jpg
+    - 
+    - '999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B007JN8918
+  - - '11'
+    - Star Wars The Black Series 6-Inch Kylo Ren
+    - http://www.amazon.com/Star-Wars-Black-Series-6-Inch/dp/B00SD8I40O%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I40O
+    - '2015-09-26 17:40:22.896544'
+    - '2015-09-26 17:40:22.896544'
+    - http://ecx.images-amazon.com/images/I/51xvFclyDHL.jpg
+    - '1999'
+    - '1948'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8I40O
+  - - '12'
+    - Star Wars Episode 7 Pop! BB-8
+    - http://www.amazon.com/Star-Wars-Episode-Pop-BB-8/dp/B013G0IQO2%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB013G0IQO2
+    - '2015-09-26 17:40:22.898958'
+    - '2015-09-26 17:40:22.898958'
+    - http://ecx.images-amazon.com/images/I/41kZQGcb9ML.jpg
+    - '1299'
+    - '1299'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B013G0IQO2
+  - - '13'
+    - 'Funko Pop Star Wars: Heavy Artillery First Order Stormtrooper Pop (Amazon Exclusive)'
+    - http://www.amazon.com/Funko-Pop-Star-Wars-Stormtrooper/dp/B013G0J7FO%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB013G0J7FO
+    - '2015-09-26 17:40:22.901223'
+    - '2015-09-26 17:40:22.901223'
+    - http://ecx.images-amazon.com/images/I/41Krm7ywtdL.jpg
+    - '1299'
+    - '1299'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B013G0J7FO
+  - - '14'
+    - Lucas Film Star Wars Sheet Set, Full
+    - http://www.amazon.com/Lucas-Film-Star-Wars-Sheet/dp/B00O0TE2WY%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00O0TE2WY
+    - '2015-09-26 17:40:22.903473'
+    - '2015-09-26 17:40:22.903473'
+    - http://ecx.images-amazon.com/images/I/51gbEfLVOvL.jpg
+    - '3999'
+    - '2993'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00O0TE2WY
+  - - '15'
+    - Star Wars The Force Awakens 3.75-inch Vehicle Poe Dameron's X-Wing
+    - http://www.amazon.com/Star-Wars-Awakens-3-75-inch-Damerons/dp/B00SOFZF3U%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZF3U
+    - '2015-09-26 17:40:22.905745'
+    - '2015-09-26 17:40:22.905745'
+    - http://ecx.images-amazon.com/images/I/41-82a2hC2L.jpg
+    - '4999'
+    - '4315'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZF3U
+  - - '16'
+    - LEGO Star Wars Millennium Falcon 75105 Building Kit
+    - http://www.amazon.com/LEGO-Millennium-Falcon-75105-Building/dp/B00WI0PJE2%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WI0PJE2
+    - '2015-09-26 17:40:22.90787'
+    - '2015-09-26 17:40:22.90787'
+    - http://ecx.images-amazon.com/images/I/51MM7sIusEL.jpg
+    - '14999'
+    - '14900'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WI0PJE2
+  - - '17'
+    - LEGO Star Wars 75111 Darth Vader Building Kit
+    - http://www.amazon.com/LEGO-75111-Darth-Vader-Building/dp/B00X6A8N1Y%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00X6A8N1Y
+    - '2015-09-26 17:40:22.910026'
+    - '2015-09-26 17:40:22.910026'
+    - http://ecx.images-amazon.com/images/I/41f%2B3G0gKhL.jpg
+    - '2999'
+    - '2984'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00X6A8N1Y
+  - - '18'
+    - Disney Star Wars Exclusive Collectible Figures 6-Pack A New Hope [Han, Luke,
+      Leia, Chewbacca, Obi-Wan &amp; Darth Vader]
+    - http://www.amazon.com/Star-Wars-Exclusive-Collectible-Chewbacca/dp/B00OO6WEJ6%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00OO6WEJ6
+    - '2015-09-26 17:40:22.912054'
+    - '2015-09-26 17:40:22.912054'
+    - http://ecx.images-amazon.com/images/I/21pTvn2toZL.jpg
+    - 
+    - '2995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00OO6WEJ6
+  - - '19'
+    - Star Wars Yoda Candy Holder
+    - http://www.amazon.com/Star-Wars-Yoda-Candy-Holder/dp/B0058DQAH6%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0058DQAH6
+    - '2015-09-26 17:40:22.914078'
+    - '2015-09-26 17:40:22.914078'
+    - http://ecx.images-amazon.com/images/I/51UKMkn9DwL.jpg
+    - '3499'
+    - '2363'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0058DQAH6
+  - - '20'
+    - Thermos Novelty Lunch Kit, Star Wars R2D2 with Lights and Sound
+    - http://www.amazon.com/Thermos-Novelty-Lunch-Lights-Sound/dp/B0058OBGLU%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0058OBGLU
+    - '2015-09-26 17:40:22.916111'
+    - '2015-09-26 17:40:22.916111'
+    - http://ecx.images-amazon.com/images/I/41jor-s6wFL.jpg
+    - '2299'
+    - '1499'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0058OBGLU
+  - - '21'
+    - Disney Star Wars Collectible Figures Toy Playset Theme Park Exclusive
+    - http://www.amazon.com/Disney-Collectible-Figures-Playset-Exclusive/dp/B001W49VR6%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001W49VR6
+    - '2015-09-26 17:40:23.742254'
+    - '2015-09-26 17:40:23.742254'
+    - http://ecx.images-amazon.com/images/I/31i4jo6Nu3L.jpg
+    - '2999'
+    - '3300'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B001W49VR6
+  - - '22'
+    - 'Risk: Star Wars Edition Game'
+    - http://www.amazon.com/Risk-Star-Wars-Edition-Game/dp/B00SDJG59K%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SDJG59K
+    - '2015-09-26 17:40:23.744449'
+    - '2015-09-26 17:40:23.744449'
+    - http://ecx.images-amazon.com/images/I/61WCp2iXjNL.jpg
+    - '2999'
+    - '2499'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SDJG59K
+  - - '23'
+    - Star Wars The Force Awakens Kylo Ren Extendable Lightsaber
+    - http://www.amazon.com/Star-Wars-Awakens-Extendable-Lightsaber/dp/B00SOFZM42%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZM42
+    - '2015-09-26 17:40:23.746487'
+    - '2015-09-26 17:40:23.746487'
+    - http://ecx.images-amazon.com/images/I/31zEk4dMquL.jpg
+    - '1299'
+    - '1099'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZM42
+  - - '24'
+    - LEGO Star Wars Poe's X-Wing Fighter 75102 Building Kit
+    - http://www.amazon.com/LEGO-X-Wing-Fighter-75102-Building/dp/B00WHZ6WOO%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WHZ6WOO
+    - '2015-09-26 17:40:23.748748'
+    - '2015-09-26 17:40:23.748748'
+    - http://ecx.images-amazon.com/images/I/51QRm1uSG5L.jpg
+    - '7999'
+    - '7900'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WHZ6WOO
+  - - '25'
+    - LEGO Star Wars 75038 Jedi Interceptor
+    - http://www.amazon.com/LEGO-Star-Wars-75038-Interceptor/dp/B00IANTQDQ%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IANTQDQ
+    - '2015-09-26 17:40:23.750987'
+    - '2015-09-26 17:40:23.750987'
+    - http://ecx.images-amazon.com/images/I/61yWuE6mW3L.jpg
+    - '2499'
+    - '1933'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00IANTQDQ
+  - - '26'
+    - Star Wars The Black Series 6-Inch Stormtrooper 4-Pack [Amazon Exclusive]
+    - http://www.amazon.com/Star-Wars-Series-Stormtrooper-Exclusive/dp/B011EG5DG4%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB011EG5DG4
+    - '2015-09-26 17:40:23.752935'
+    - '2015-09-26 17:40:23.752935'
+    - http://ecx.images-amazon.com/images/I/41hNhX78qiL.jpg
+    - '7999'
+    - '7999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B011EG5DG4
+  - - '27'
+    - Star Wars Ezra Bridger Lightsaber Blaster
+    - http://www.amazon.com/Star-Wars-Bridger-Lightsaber-Blaster/dp/B00LD6UCDU%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LD6UCDU
+    - '2015-09-26 17:40:23.754924'
+    - '2015-09-26 17:40:23.754924'
+    - http://ecx.images-amazon.com/images/I/31u4-p8kH5L.jpg
+    - '3499'
+    - '3343'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00LD6UCDU
+  - - '28'
+    - 'Star Wars: Armada Game'
+    - http://www.amazon.com/Fantasy-Flight-Games-SWM01-Star/dp/1616619937%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1616619937
+    - '2015-09-26 17:40:23.756832'
+    - '2015-09-26 17:40:23.756832'
+    - http://ecx.images-amazon.com/images/I/61nQmnwnjKL.jpg
+    - '9999'
+    - '5999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - '1616619937'
+  - - '29'
+    - Star Wars Anakin to Darth Vader Color Change Lightsaber Toy
+    - http://www.amazon.com/Star-Wars-Anakin-Change-Lightsaber/dp/B00CFWWD7Y%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CFWWD7Y
+    - '2015-09-26 17:40:23.758816'
+    - '2015-09-26 17:40:23.758816'
+    - http://ecx.images-amazon.com/images/I/217gBg5GgUL.jpg
+    - '3999'
+    - '4416'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00CFWWD7Y
+  - - '30'
+    - Star Wars Science - Death Star Planetarium
+    - http://www.amazon.com/Star-Wars-Science-Death-Planetarium/dp/B00339P9ME%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00339P9ME
+    - '2015-09-26 17:40:23.760741'
+    - '2015-09-26 17:40:23.760741'
+    - http://ecx.images-amazon.com/images/I/61fSubvzndL.jpg
+    - '2999'
+    - '1999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00339P9ME
+  - - '31'
+    - Star Wars The Force Awakens 3.75-inch Vehicle First Order Special Forces TIE
+      Fighter
+    - http://www.amazon.com/Star-Wars-Awakens-3-75-inch-Vehicle/dp/B00SOFZLMA%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZLMA
+    - '2015-09-26 17:40:24.231663'
+    - '2015-09-26 17:40:24.231663'
+    - http://ecx.images-amazon.com/images/I/51Vg54bD9VL.jpg
+    - '3999'
+    - '3973'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZLMA
+  - - '32'
+    - Fascinations 251 Star Wars Millennium Falcon Metal Earth 3D Metal Model Kit
+    - http://www.amazon.com/Fascinations-Millennium-Falcon-Metal-Earth/dp/B00GY8S8MO%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GY8S8MO
+    - '2015-09-26 17:40:24.233807'
+    - '2015-09-26 17:40:24.233807'
+    - http://ecx.images-amazon.com/images/I/51Q3faA26nL.jpg
+    - '1499'
+    - '599'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00GY8S8MO
+  - - '33'
+    - 'Disney Infinity 3.0 Edition: Star Wars Saga Bundle - PlayStation 4'
+    - http://www.amazon.com/Disney-Infinity-3-0-Edition-Bundle-PlayStation/dp/B00ZSJU97C%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ZSJU97C
+    - '2015-09-26 17:40:24.235828'
+    - '2015-09-26 17:40:24.235828'
+    - http://ecx.images-amazon.com/images/I/51TJFXXEUOL.jpg
+    - '11499'
+    - '6000'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00ZSJU97C
+  - - '34'
+    - Lucas Films Yoda Pillowtime Pal
+    - http://www.amazon.com/Lucas-Films-Yoda-Pillowtime-Pal/dp/B001GNVB7Q%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001GNVB7Q
+    - '2015-09-26 17:40:24.238009'
+    - '2015-09-26 17:40:24.238009'
+    - http://ecx.images-amazon.com/images/I/41SNdjqQeNL.jpg
+    - 
+    - '1530'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B001GNVB7Q
+  - - '35'
+    - Star Wars Return of the Jedi Luke Skywalker Extendable Lightsaber
+    - http://www.amazon.com/Star-Wars-Skywalker-Extendable-Lightsaber/dp/B00SD8GUFK%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8GUFK
+    - '2015-09-26 17:40:24.240119'
+    - '2015-09-26 17:40:24.240119'
+    - http://ecx.images-amazon.com/images/I/31ftV2mcw2L.jpg
+    - '999'
+    - '999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8GUFK
+  - - '36'
+    - LEGO Star Wars Imperial Troop Transport
+    - http://www.amazon.com/LEGO-Star-Imperial-Troop-Transport/dp/B00NHQI60K%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NHQI60K
+    - '2015-09-26 17:40:24.242186'
+    - '2015-09-26 17:40:24.242186'
+    - http://ecx.images-amazon.com/images/I/61y0j3LdmsL.jpg
+    - '1299'
+    - '1119'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NHQI60K
+  - - '37'
+    - Star Wars The Black Series 6-Inch First Order Stormtrooper
+    - http://www.amazon.com/Star-Wars-Series-6-Inch-Stormtrooper/dp/B00SD8I486%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I486
+    - '2015-09-26 17:40:24.244142'
+    - '2015-09-26 17:40:24.244142'
+    - http://ecx.images-amazon.com/images/I/41TOKcXexLL.jpg
+    - '1999'
+    - '3495'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8I486
+  - - '38'
+    - Star Wars Science Force Glove
+    - http://www.amazon.com/Star-Wars-Science-Force-Glove/dp/B007CJJRVA%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB007CJJRVA
+    - '2015-09-26 17:40:24.246121'
+    - '2015-09-26 17:40:24.246121'
+    - http://ecx.images-amazon.com/images/I/41ySmEXM8kL.jpg
+    - '1799'
+    - '1999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B007CJJRVA
+  - - '39'
+    - Star Wars R2-D2 Interactive Astromech Droid
+    - http://www.amazon.com/Star-Wars-R2-D2-Interactive-Astromech/dp/B002KHN23S%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002KHN23S
+    - '2015-09-26 17:40:24.248051'
+    - '2015-09-26 17:40:24.248051'
+    - http://ecx.images-amazon.com/images/I/41v-TmETw3L.jpg
+    - '19999'
+    - '29595'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B002KHN23S
+  - - '40'
+    - Star Wars Rebels Stormtrooper Blaster
+    - http://www.amazon.com/Star-Wars-Rebels-Stormtrooper-Blaster/dp/B00ILA278E%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ILA278E
+    - '2015-09-26 17:40:24.250258'
+    - '2015-09-26 17:40:24.250258'
+    - http://ecx.images-amazon.com/images/I/319CIn0CwpL.jpg
+    - '2199'
+    - '2388'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00ILA278E
+  - - '41'
+    - Lego, Star Wars Microfighters Series 1 Milennium Falcon (75030)
+    - http://www.amazon.com/Microfighters-Series-Milennium-Falcon-75030/dp/B00IANTUVE%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00IANTUVE
+    - '2015-09-26 17:40:24.849378'
+    - '2015-09-26 17:40:24.849378'
+    - http://ecx.images-amazon.com/images/I/51Jk9H5eEIL.jpg
+    - '1199'
+    - '1642'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00IANTUVE
+  - - '42'
+    - STAR WARS Digital Release Commemorative Collection Box Set - Episode 5 The Empire
+      Strikes Back - Luke Skywalker, Darth Vader, Bossk, IG-88 (pack of four 3.75
+      inch action figures)
+    - http://www.amazon.com/STAR-Digital-Release-Commemorative-Collection/dp/B00NYSQHHK%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NYSQHHK
+    - '2015-09-26 17:40:24.851687'
+    - '2015-09-26 17:40:24.851687'
+    - http://ecx.images-amazon.com/images/I/51vzONWnYBL.jpg
+    - '2199'
+    - '2442'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NYSQHHK
+  - - '43'
+    - Star Wars Episode 7 Pop! Captain Phasma
+    - http://www.amazon.com/Star-Wars-Episode-Captain-Phasma/dp/B013G0J862%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB013G0J862
+    - '2015-09-26 17:40:24.853793'
+    - '2015-09-26 17:40:24.853793'
+    - http://ecx.images-amazon.com/images/I/41bfKJYGIGL.jpg
+    - '1299'
+    - '999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B013G0J862
+  - - '44'
+    - Star Wars The Force Awakens 3.75-Inch Figure Snow Mission X-Wing Pilot Asty
+    - http://www.amazon.com/Star-Wars-Awakens-3-75-Inch-Mission/dp/B00WO0ADQK%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WO0ADQK
+    - '2015-09-26 17:40:24.855697'
+    - '2015-09-26 17:40:24.855697'
+    - http://ecx.images-amazon.com/images/I/51Vw4rVLZIL.jpg
+    - '799'
+    - '1699'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WO0ADQK
+  - - '45'
+    - Star Wars The Black Series Darth Malgus 3.75" Figure
+    - http://www.amazon.com/Star-Wars-Series-Malgus-Figure/dp/B00MYL7IMQ%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MYL7IMQ
+    - '2015-09-26 17:40:24.857649'
+    - '2015-09-26 17:40:24.857649'
+    - http://ecx.images-amazon.com/images/I/51thcOo1IQL.jpg
+    - '1499'
+    - '1399'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00MYL7IMQ
+  - - '46'
+    - Playskool Heroes Star Wars Galactic Heroes Millennium Falcon and Figures
+    - http://www.amazon.com/Playskool-Heroes-Galactic-Millennium-Figures/dp/B00U5MVOX0%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00U5MVOX0
+    - '2015-09-26 17:40:24.85969'
+    - '2015-09-26 17:40:24.85969'
+    - http://ecx.images-amazon.com/images/I/41p7OSQiDLL.jpg
+    - '3999'
+    - '3980'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00U5MVOX0
+  - - '47'
+    - Star Wars The Black Series 6 Inch Finn (Jakku)
+    - http://www.amazon.com/Star-Wars-Black-Series-Jakku/dp/B00SD8I0SK%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I0SK
+    - '2015-09-26 17:40:24.861706'
+    - '2015-09-26 17:40:24.861706'
+    - http://ecx.images-amazon.com/images/I/51NdmjpSx0L.jpg
+    - '1999'
+    - '1399'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8I0SK
+  - - '48'
+    - LEGO Star Wars Rey's Speeder 75099 Building Kit
+    - http://www.amazon.com/LEGO-Star-Speeder-75099-Building/dp/B00WI0QCAM%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WI0QCAM
+    - '2015-09-26 17:40:24.863836'
+    - '2015-09-26 17:40:24.863836'
+    - http://ecx.images-amazon.com/images/I/41GmCkHfDjL.jpg
+    - '1999'
+    - '1987'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WI0QCAM
+  - - '49'
+    - 'Lego Star Wars: The Complete Saga - Nintendo Wii'
+    - http://www.amazon.com/Lego-Star-Wars-Complete-Saga-Nintendo/dp/B000R3BNDI%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB000R3BNDI
+    - '2015-09-26 17:40:24.865912'
+    - '2015-09-26 17:40:24.865912'
+    - http://ecx.images-amazon.com/images/I/51VjlsQigLL.jpg
+    - '1999'
+    - '1599'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B000R3BNDI
+  - - '50'
+    - LEGO Star Wars TIE Advanced Prototype Toy
+    - http://www.amazon.com/LEGO-Star-Wars-Advanced-Prototype/dp/B00NHQI286%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NHQI286
+    - '2015-09-26 17:40:24.86785'
+    - '2015-09-26 17:40:24.86785'
+    - http://ecx.images-amazon.com/images/I/61CbnK448lL.jpg
+    - '3999'
+    - '3199'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NHQI286
+  - - '51'
+    - Star Wars Nerf Episode VII First Order Stormtrooper Deluxe Blaster
+    - http://www.amazon.com/Star-Wars-Episode-Stormtrooper-Blaster/dp/B00SOFZT8G%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZT8G
+    - '2015-09-26 17:40:25.254084'
+    - '2015-09-26 17:40:25.254084'
+    - http://ecx.images-amazon.com/images/I/41R5YkkZ7UL.jpg
+    - '3999'
+    - '3199'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZT8G
+  - - '52'
+    - LEGO Star Wars Death Star (10188)
+    - http://www.amazon.com/LEGO-Star-Wars-Death-10188/dp/B002EEP3NO%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB002EEP3NO
+    - '2015-09-26 17:40:25.25626'
+    - '2015-09-26 17:40:25.25626'
+    - http://ecx.images-amazon.com/images/I/61dq915q1ML.jpg
+    - '39999'
+    - '53995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B002EEP3NO
+  - - '53'
+    - Star Wars Anakin to Darth Vader Figure
+    - http://www.amazon.com/Star-Wars-Anakin-Darth-Figure/dp/B00CFWWDWE%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CFWWDWE
+    - '2015-09-26 17:40:25.25815'
+    - '2015-09-26 17:40:25.25815'
+    - http://ecx.images-amazon.com/images/I/41IfINZitwL.jpg
+    - '2999'
+    - '1887'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00CFWWDWE
+  - - '54'
+    - SDCC 2015 Exclusive Star Wars the Black Series 6-inch First Order Stormtrooper
+    - http://www.amazon.com/Exclusive-Star-Wars-Series-Stormtrooper/dp/B011AXJ11Y%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB011AXJ11Y
+    - '2015-09-26 17:40:25.260383'
+    - '2015-09-26 17:40:25.260383'
+    - http://ecx.images-amazon.com/images/I/51JG9LVpWvL.jpg
+    - '14999'
+    - '10999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B011AXJ11Y
+  - - '55'
+    - Quantum Mechanix Star Wars Millennium Falcon Replica Keychain
+    - http://www.amazon.com/Quantum-Mechanix-Millennium-Replica-Keychain/dp/B00LWHCO2W%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00LWHCO2W
+    - '2015-09-26 17:40:25.262262'
+    - '2015-09-26 17:40:25.262262'
+    - http://ecx.images-amazon.com/images/I/410KFGJQWQL.jpg
+    - '1299'
+    - '629'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00LWHCO2W
+  - - '56'
+    - Star Wars The Black Series Stormtrooper Figure 6 Inches
+    - http://www.amazon.com/Star-Wars-Series-Stormtrooper-Figure/dp/B00CFELV48%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CFELV48
+    - '2015-09-26 17:40:25.2643'
+    - '2015-09-26 17:40:25.2643'
+    - http://ecx.images-amazon.com/images/I/41AndD7Kj9L.jpg
+    - '2299'
+    - '1399'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00CFELV48
+  - - '57'
+    - Star Wars Rebels Inquisitor Lightsaber
+    - http://www.amazon.com/Star-Wars-Rebels-Inquisitor-Lightsaber/dp/B00HX8NGVC%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HX8NGVC
+    - '2015-09-26 17:40:25.266207'
+    - '2015-09-26 17:40:25.266207'
+    - http://ecx.images-amazon.com/images/I/21d5cQOdzGL.jpg
+    - '3299'
+    - '1850'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00HX8NGVC
+  - - '58'
+    - Star Wars The Black Series 6-Inch Rey (Jakku) and BB-8
+    - http://www.amazon.com/Star-Wars-Black-Series-6-Inch/dp/B00SD8I11G%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I11G
+    - '2015-09-26 17:40:25.268262'
+    - '2015-09-26 17:40:25.268262'
+    - http://ecx.images-amazon.com/images/I/41trAbu-wjL.jpg
+    - '1999'
+    - '2995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8I11G
+  - - '59'
+    - Star Wars The Black Series Titanium Series Vehicles Multi Pack
+    - http://www.amazon.com/Star-Wars-Series-Titanium-Vehicles/dp/B00SOFZNBO%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZNBO
+    - '2015-09-26 17:40:25.270324'
+    - '2015-09-26 17:40:25.270324'
+    - http://ecx.images-amazon.com/images/I/51HnPVCTyQL.jpg
+    - '1999'
+    - '1875'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZNBO
+  - - '60'
+    - 'Playskool Mr. Potato Head Star Wars: Darth Tater Toy'
+    - http://www.amazon.com/Playskool-Potato-Head-Star-Wars/dp/B0074FN740%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0074FN740
+    - '2015-09-26 17:40:25.272206'
+    - '2015-09-26 17:40:25.272206'
+    - http://ecx.images-amazon.com/images/I/51w2SNjVsnL.jpg
+    - '1499'
+    - '775'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0074FN740
+  - - '61'
+    - Star Wars Episode 7 Pop! Kylo Ren
+    - http://www.amazon.com/Star-Wars-Episode-Pop-Kylo/dp/B013G0J6LE%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB013G0J6LE
+    - '2015-09-26 17:40:25.676126'
+    - '2015-09-26 17:40:25.676126'
+    - http://ecx.images-amazon.com/images/I/516J2on-twL.jpg
+    - '1299'
+    - '999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B013G0J6LE
+  - - '62'
+    - Star Wars Jedi Knight (Qui-Gon Jinn) Lightsaber
+    - http://www.amazon.com/Star-Wars-Knight-Qui-Gon-Lightsaber/dp/B00004U3N3%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00004U3N3
+    - '2015-09-26 17:40:25.678648'
+    - '2015-09-26 17:40:25.678648'
+    - http://ecx.images-amazon.com/images/I/315N2TToyyL.jpg
+    - '1299'
+    - '699'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00004U3N3
+  - - '63'
+    - Rubie's Star Wars Female Stormtrooper, White/Black, Small
+    - http://www.amazon.com/Rubies-Female-Stormtrooper-White-Black/dp/B00BZ62ESY%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BZ62ESY
+    - '2015-09-26 17:40:25.680998'
+    - '2015-09-26 17:40:25.680998'
+    - http://ecx.images-amazon.com/images/I/417Tu5jeBwL.jpg
+    - '10500'
+    - '4249'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00BZ62ESY
+  - - '64'
+    - Star Wars Nerf Episode VII First Order Stormtrooper Blaster
+    - http://www.amazon.com/Star-Wars-Episode-Stormtrooper-Blaster/dp/B00SOFZT54%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZT54
+    - '2015-09-26 17:40:25.683128'
+    - '2015-09-26 17:40:25.683128'
+    - http://ecx.images-amazon.com/images/I/41Z9iyion8L.jpg
+    - '1299'
+    - '1039'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZT54
+  - - '65'
+    - 'Star Wars: The Force Unleashed II Platinum edition - Xbox 360'
+    - http://www.amazon.com/Star-Wars-Force-Unleashed-Platinum-Xbox/dp/B0030EU3TG%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0030EU3TG
+    - '2015-09-26 17:40:25.68534'
+    - '2015-09-26 17:40:25.68534'
+    - http://ecx.images-amazon.com/images/I/51AHxEfbnYL.jpg
+    - '1999'
+    - '1462'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0030EU3TG
+  - - '66'
+    - LEGO Star Wars 75040 General Grievous' Wheel Bike
+    - http://www.amazon.com/LEGO-75040-General-Grievous-Wheel/dp/B00HWMY8XY%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00HWMY8XY
+    - '2015-09-26 17:40:25.687587'
+    - '2015-09-26 17:40:25.687587'
+    - http://ecx.images-amazon.com/images/I/511UI2iWHNL.jpg
+    - '2499'
+    - '1995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00HWMY8XY
+  - - '67'
+    - LEGO Star Wars 75049 Snowspeeder Building Toy
+    - http://www.amazon.com/LEGO-Star-75049-Snowspeeder-Building/dp/B00J4S97O4%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4S97O4
+    - '2015-09-26 17:40:25.689857'
+    - '2015-09-26 17:40:25.689857'
+    - http://ecx.images-amazon.com/images/I/61-BiVpclzL.jpg
+    - '2999'
+    - '2150'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00J4S97O4
+  - - '68'
+    - Star Wars Science - Multicolor Lightsaber Room Light
+    - http://www.amazon.com/Star-Wars-Science-Multicolor-Lightsaber/dp/B00339QX6A%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00339QX6A
+    - '2015-09-26 17:40:25.691993'
+    - '2015-09-26 17:40:25.691993'
+    - http://ecx.images-amazon.com/images/I/51I4DRL3yIL.jpg
+    - '2999'
+    - '3895'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00339QX6A
+  - - '69'
+    - LEGO Star Wars 75055 Imperial Star Destroyer Building Toy
+    - http://www.amazon.com/LEGO-75055-Imperial-Destroyer-Building/dp/B00J4S962W%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4S962W
+    - '2015-09-26 17:40:25.694065'
+    - '2015-09-26 17:40:25.694065'
+    - http://ecx.images-amazon.com/images/I/61Sm%2BtWDTjL.jpg
+    - '12999'
+    - '10000'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00J4S962W
+  - - '70'
+    - LEGO Star Wars First Order Transporter 75103 Building Kit
+    - http://www.amazon.com/LEGO-First-Order-Transporter-Building/dp/B00WHYTSS2%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WHYTSS2
+    - '2015-09-26 17:40:25.696137'
+    - '2015-09-26 17:40:25.696137'
+    - http://ecx.images-amazon.com/images/I/51DNeXSnL4L.jpg
+    - '8999'
+    - '8900'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WHYTSS2
+  - - '71'
+    - Star Wars Playskool Heroes Jedi Force Death Star Escape Set
+    - http://www.amazon.com/Star-Wars-Playskool-Heroes-Escape/dp/B00CUZZX82%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CUZZX82
+    - '2015-09-26 17:40:26.084138'
+    - '2015-09-26 17:40:26.084138'
+    - http://ecx.images-amazon.com/images/I/31jPiniuIpL.jpg
+    - '1699'
+    - '2295'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00CUZZX82
+  - - '72'
+    - 'Fascinations Metal Earth Star Wars: AT-AT Model'
+    - http://www.amazon.com/Fascinations-Metal-Earth-Star-Wars/dp/B00GY9133O%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00GY9133O
+    - '2015-09-26 17:40:26.086381'
+    - '2015-09-26 17:40:26.086381'
+    - http://ecx.images-amazon.com/images/I/51FaCSWFh4L.jpg
+    - '1995'
+    - '599'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00GY9133O
+  - - '73'
+    - 'Star Wars: Imperial Assault Game'
+    - http://www.amazon.com/Star-Wars-Imperial-Assault-Game/dp/1616619902%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1616619902
+    - '2015-09-26 17:40:26.088495'
+    - '2015-09-26 17:40:26.088495'
+    - http://ecx.images-amazon.com/images/I/61cVgr5hOsL.jpg
+    - '9999'
+    - '6427'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - '1616619902'
+  - - '74'
+    - Kotobukiya Star Wars Han Solo Silicone Tray
+    - http://www.amazon.com/Kotobukiya-Star-Wars-Solo-Silicone/dp/B004R7S9I2%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004R7S9I2
+    - '2015-09-26 17:40:26.090485'
+    - '2015-09-26 17:40:26.090485'
+    - http://ecx.images-amazon.com/images/I/41xcM1jtf0L.jpg
+    - '1099'
+    - '370'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B004R7S9I2
+  - - '75'
+    - 'Star Wars: The Old Republic - Knights of the Fallen Empire Starter Pack - Amazon
+      Bundle [Online Game Code]'
+    - http://www.amazon.com/Star-Wars-Republic-Knights-Starter/dp/B00T8NURF8%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00T8NURF8
+    - '2015-09-26 17:40:26.092423'
+    - '2015-09-26 17:40:26.092423'
+    - http://ecx.images-amazon.com/images/I/516MRltMx8L.jpg
+    - '3999'
+    - '3999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00T8NURF8
+  - - '76'
+    - LEGO Star Wars First Order Special Forces TIE Fighter 75101 Building Kit
+    - http://www.amazon.com/LEGO-Special-Forces-Fighter-Building/dp/B00WHYTQXE%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00WHYTQXE
+    - '2015-09-26 17:40:26.094388'
+    - '2015-09-26 17:40:26.094388'
+    - http://ecx.images-amazon.com/images/I/61%2BFSMoCG4L.jpg
+    - '6999'
+    - '6900'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00WHYTQXE
+  - - '77'
+    - Star Wars Command Star Destroyer Set
+    - http://www.amazon.com/Star-Wars-Command-Destroyer-Set/dp/B00ILA2766%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00ILA2766
+    - '2015-09-26 17:40:26.09639'
+    - '2015-09-26 17:40:26.09639'
+    - http://ecx.images-amazon.com/images/I/61OMZ7JUR8L.jpg
+    - '5999'
+    - '2500'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00ILA2766
+  - - '78'
+    - STAR WARS Digital Release Commemorative Collection - Episode 6 Return of the
+      Jedi - Luke Skywalker, Boba Fett, Biker Scout Stormtrooper, Wicket Ewok (pack
+      of four 3.75 inch action figures)
+    - http://www.amazon.com/STAR-Digital-Release-Commemorative-Collection/dp/B00NYSQHWU%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NYSQHWU
+    - '2015-09-26 17:40:26.098751'
+    - '2015-09-26 17:40:26.098751'
+    - http://ecx.images-amazon.com/images/I/51irOduJvHL.jpg
+    - '2199'
+    - '1999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NYSQHWU
+  - - '79'
+    - LEGO Star Wars 75054 AT-AT Building Toy
+    - http://www.amazon.com/LEGO-Star-75054-AT-AT-Building/dp/B00J4S9BEA%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4S9BEA
+    - '2015-09-26 17:40:26.100758'
+    - '2015-09-26 17:40:26.100758'
+    - http://ecx.images-amazon.com/images/I/61fuw--0Q3L.jpg
+    - '10999'
+    - '9995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00J4S9BEA
+  - - '80'
+    - Star Wars Set Of 7 Character Bath Toys - Disney Parks Exclusive
+    - http://www.amazon.com/Star-Wars-Character-Bath-Toys/dp/B001BHSKCG%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB001BHSKCG
+    - '2015-09-26 17:40:26.102576'
+    - '2015-09-26 17:40:26.102576'
+    - http://ecx.images-amazon.com/images/I/51br1TtfAHL.jpg
+    - '0'
+    - '2682'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B001BHSKCG
+  - - '81'
+    - Star Wars The Force Awakens 3.75-Inch Figure Forest Mission Kylo Ren
+    - http://www.amazon.com/Star-Wars-Awakens-3-75-Inch-Mission/dp/B00SD8GYEW%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8GYEW
+    - '2015-09-26 17:40:26.586884'
+    - '2015-09-26 17:40:26.586884'
+    - http://ecx.images-amazon.com/images/I/51883HhB7sL.jpg
+    - '799'
+    - '1195'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SD8GYEW
+  - - '82'
+    - Handcraft Little Boys' Lego Star Wars  5 Pack Underwear Brief, Multi, 6
+    - http://www.amazon.com/Handcraft-Little-Star-Wars-Underwear/dp/B0050O4W46%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0050O4W46
+    - '2015-09-26 17:40:26.589078'
+    - '2015-09-26 17:40:26.589078'
+    - http://ecx.images-amazon.com/images/I/513MxPI3bxL.jpg
+    - '1800'
+    - '1499'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0050O4W46
+  - - '83'
+    - Rubies Costume Star Wars Collection Pet Costume, X-Large, At-At Imperial Walker
+    - http://www.amazon.com/Rubies-Costume-Collection-X-Large-Imperial/dp/B0096CQN4A%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0096CQN4A
+    - '2015-09-26 17:40:26.59103'
+    - '2015-09-26 17:40:26.59103'
+    - http://ecx.images-amazon.com/images/I/41xDyjtT4AL.jpg
+    - '2099'
+    - '1544'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0096CQN4A
+  - - '84'
+    - Classic Star Wars Stickers ~ 300 Stickers
+    - http://www.amazon.com/Classic-Star-Wars-Stickers-300/dp/B00V5DK8AI%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00V5DK8AI
+    - '2015-09-26 17:40:26.593063'
+    - '2015-09-26 17:40:26.593063'
+    - http://ecx.images-amazon.com/images/I/61ZoRMQUPDL.jpg
+    - 
+    - '650'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00V5DK8AI
+  - - '85'
+    - Disney Star Wars Exclusive Collectible Figures 6-Pack Return of the Jedi [Luke,
+      Leia, C3P0, Jabba The Hut, Gamorrean Guard &amp; Bib Fortuna ]
+    - http://www.amazon.com/Star-Wars-Exclusive-Collectible-Gamorrean/dp/B00NMVNWT0%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NMVNWT0
+    - '2015-09-26 17:40:26.595232'
+    - '2015-09-26 17:40:26.595232'
+    - http://ecx.images-amazon.com/images/I/214tz6Lb6ZL.jpg
+    - 
+    - '2078'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NMVNWT0
+  - - '86'
+    - Hot Wheels Star Wars Character Car 2-Pack, C-3PO and R2-D2
+    - http://www.amazon.com/Hot-Wheels-Character-2-Pack-C-3PO/dp/B00MK0ZAH6%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00MK0ZAH6
+    - '2015-09-26 17:40:26.597179'
+    - '2015-09-26 17:40:26.597179'
+    - 
+    - '899'
+    - '559'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00MK0ZAH6
+  - - '87'
+    - Spin Master Games, Star Wars Death Star Perplexus
+    - http://www.amazon.com/Master-Games-Star-Wars-Perplexus/dp/B00TY419OY%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00TY419OY
+    - '2015-09-26 17:40:26.599387'
+    - '2015-09-26 17:40:26.599387'
+    - http://ecx.images-amazon.com/images/I/51iLnjNlmML.jpg
+    - '3999'
+    - '3799'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00TY419OY
+  - - '88'
+    - Star Wars Figure Set Disney Exlusive Set of Villians with Darth Maul, General
+      Grevious Etc
+    - http://www.amazon.com/Star-Wars-Exlusive-Villians-Grevious/dp/B004XW0L28%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB004XW0L28
+    - '2015-09-26 17:40:26.601572'
+    - '2015-09-26 17:40:26.601572'
+    - http://ecx.images-amazon.com/images/I/3161xQzJ-uL.jpg
+    - 
+    - '1995'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B004XW0L28
+  - - '89'
+    - Disney - Star Wars ''The Empire Strikes Back'' Six Figure Play Set
+    - http://www.amazon.com/Disney-Star-Empire-Strikes-Figure/dp/B00OV5ZBYA%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00OV5ZBYA
+    - '2015-09-26 17:40:26.603731'
+    - '2015-09-26 17:40:26.603731'
+    - http://ecx.images-amazon.com/images/I/51qWjjkvs%2BL.jpg
+    - 
+    - '3198'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00OV5ZBYA
+  - - '90'
+    - LEGO Star Wars 75112 General Grievous Building Kit
+    - http://www.amazon.com/LEGO-75112-General-Grievous-Building/dp/B00X6A8N8M%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00X6A8N8M
+    - '2015-09-26 17:40:26.605792'
+    - '2015-09-26 17:40:26.605792'
+    - http://ecx.images-amazon.com/images/I/51A9AUok%2BNL.jpg
+    - '3499'
+    - '3476'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00X6A8N8M
+  - - '91'
+    - Star Wars R2-D2 White Infant Baby Romper (0-6 Months)
+    - http://www.amazon.com/Star-Wars-Infant-Romper-Months/dp/B008SBD910%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB008SBD910
+    - '2015-09-26 17:40:27.101505'
+    - '2015-09-26 17:40:27.101505'
+    - http://ecx.images-amazon.com/images/I/31S26JpyW3L.jpg
+    - '1995'
+    - '1795'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B008SBD910
+  - - '92'
+    - Star Wars Darth Vader Voice Changer Helmet
+    - http://www.amazon.com/Star-Wars-Darth-Changer-Helmet/dp/B00CANHZ4Y%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CANHZ4Y
+    - '2015-09-26 17:40:27.104016'
+    - '2015-09-26 17:40:27.104016'
+    - http://ecx.images-amazon.com/images/I/41apDCE-nXL.jpg
+    - '3299'
+    - '2999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00CANHZ4Y
+  - - '93'
+    - LEGO Star Wars 75052 Mos Eisley Cantina Building Toy
+    - http://www.amazon.com/LEGO-75052-Eisley-Cantina-Building/dp/B00J4S9CU8%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4S9CU8
+    - '2015-09-26 17:40:27.106758'
+    - '2015-09-26 17:40:27.106758'
+    - http://ecx.images-amazon.com/images/I/51XuiyIXZwL.jpg
+    - '6999'
+    - '4933'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00J4S9CU8
+  - - '94'
+    - Star Wars The Black Series Kylo Ren Force FX Deluxe Lightsaber
+    - http://www.amazon.com/Star-Wars-Series-Deluxe-Lightsaber/dp/B00SOFZLLG%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZLLG
+    - '2015-09-26 17:40:27.109642'
+    - '2015-09-26 17:40:27.109642'
+    - http://ecx.images-amazon.com/images/I/31lamVtSrFL.jpg
+    - '19999'
+    - '28494'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SOFZLLG
+  - - '95'
+    - Air Hogs Star Wars Remote Control Speeder Bike
+    - http://www.amazon.com/Air-Hogs-Remote-Control-Speeder/dp/B00UAK0UXM%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00UAK0UXM
+    - '2015-09-26 17:40:27.112357'
+    - '2015-09-26 17:40:27.112357'
+    - http://ecx.images-amazon.com/images/I/41iLZ0pXUZL.jpg
+    - '3499'
+    - '3499'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00UAK0UXM
+  - - '96'
+    - Star Wars Millennium Falcon Model Kit
+    - http://www.amazon.com/Star-Wars-Millennium-Falcon-Model/dp/B0013J5QQ0%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0013J5QQ0
+    - '2015-09-26 17:40:27.114766'
+    - '2015-09-26 17:40:27.114766'
+    - http://ecx.images-amazon.com/images/I/21DnZ0G0XvL.jpg
+    - '5995'
+    - '3499'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B0013J5QQ0
+  - - '97'
+    - Monopoly Game Star Wars
+    - http://www.amazon.com/Hasbro-B0324-Monopoly-Game-Star/dp/B00SDJG6QC%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SDJG6QC
+    - '2015-09-26 17:40:27.117011'
+    - '2015-09-26 17:40:27.117011'
+    - http://ecx.images-amazon.com/images/I/51tchRd6CtL.jpg
+    - '2499'
+    - '1999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00SDJG6QC
+  - - '98'
+    - LEGO Star Wars Shadow Troopers
+    - http://www.amazon.com/LEGO-Star-Wars-Shadow-Troopers/dp/B00NHQI2MC%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00NHQI2MC
+    - '2015-09-26 17:40:27.119114'
+    - '2015-09-26 17:40:27.119114'
+    - http://ecx.images-amazon.com/images/I/515nM4CehXL.jpg
+    - '1299'
+    - '939'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00NHQI2MC
+  - - '99'
+    - LEGO Star Wars Advent Calendar 75056
+    - http://www.amazon.com/LEGO-Star-Advent-Calendar-75056/dp/B00J4S98AW%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00J4S98AW
+    - '2015-09-26 17:40:27.121255'
+    - '2015-09-26 17:40:27.121255'
+    - http://ecx.images-amazon.com/images/I/51g%2BFAgKqXL.jpg
+    - '3999'
+    - '6449'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00J4S98AW
+  - - '100'
+    - Star Wars The Black Series First Order Special Forces TIE Fighter
+    - http://www.amazon.com/Star-Wars-Series-Special-Fighter/dp/B00TQYB2HG%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00TQYB2HG
+    - '2015-09-26 17:40:27.12337'
+    - '2015-09-26 17:40:27.12337'
+    - http://ecx.images-amazon.com/images/I/517z-UMZr9L.jpg
+    - '16999'
+    - '16999'
+    - Toys
+    - Amazon
+    - 
+    - 
+    - B00TQYB2HG
+
+---
+users:
+  columns:
+  - id
+  - email
+  - encrypted_password
+  - reset_password_token
+  - reset_password_sent_at
+  - remember_created_at
+  - sign_in_count
+  - current_sign_in_at
+  - last_sign_in_at
+  - current_sign_in_ip
+  - last_sign_in_ip
+  - created_at
+  - updated_at
+  records: 
+  - - '1'
+    - codes@gmail.com
+    - "$2a$10$CiwTWQqi1Xae1.hUuPzc/OiIiwTjQJG6mcmb.WJp4sNHpot6VlmuO"
+    - 
+    - 
+    - 
+    - '2'
+    - '2015-09-26 19:20:20.67901'
+    - '2015-09-26 19:20:04.016361'
+    - "::1"
+    - "::1"
+    - '2015-09-26 19:20:00.025298'
+    - '2015-09-26 19:20:20.680016'
+
+---
+visits:
+  columns:
+  - id
+  - visitor_id
+  - ip
+  - user_agent
+  - referrer
+  - landing_page
+  - user_id
+  - referring_domain
+  - search_keyword
+  - browser
+  - os
+  - device_type
+  - screen_height
+  - screen_width
+  - country
+  - region
+  - city
+  - utm_source
+  - utm_medium
+  - utm_term
+  - utm_content
+  - utm_campaign
+  - started_at
+  records: 
+  - - 45664208-8f94-4dcd-8867-802b3048c40e
+    - 48f2127b-29bd-4cdd-9dd5-0baa555af459
+    - "::1"
+    - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/45.0.2454.93 Safari/537.36
+    - http://localhost:3000/
+    - http://localhost:3000/
+    - 
+    - localhost
+    - 
+    - Chrome
+    - Mac OS X
+    - Desktop
+    - 
+    - 
+    - Reserved
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2015-09-26 18:11:00.196815'
+  - - 84e40a7d-488e-4511-aa9b-e553c0e3579b
+    - 2cfe16e7-c623-46a2-acdf-5e69f3aa9334
+    - "::1"
+    - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/45.0.2454.93 Safari/537.36
+    - http://localhost:3000/
+    - http://localhost:3000/
+    - 
+    - localhost
+    - 
+    - Chrome
+    - Mac OS X
+    - Desktop
+    - 
+    - 
+    - Reserved
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2015-09-26 18:10:56.562433'
+  - - c435efea-4115-4577-b194-817566165a79
+    - 57fafd43-a1fd-4d08-b108-f75d05a950f3
+    - "::1"
+    - Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/45.0.2454.93 Safari/537.36
+    - http://localhost:3000/
+    - http://localhost:3000/
+    - '1'
+    - localhost
+    - 
+    - Chrome
+    - Mac OS X
+    - Desktop
+    - 
+    - 
+    - Reserved
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - '2015-09-26 18:14:19.144452'
+
+---
+ahoy_events:
+  columns:
+  - id
+  - visit_id
+  - user_id
+  - name
+  - properties
+  - time
+  records: 
+  - - 031250cf-2970-45af-9943-c3c98fd4e6ad
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"Jewlery","href":"/accessories"}'
+    - '2015-09-26 22:37:42.825'
+  - - 0d0024d8-efa3-4438-8ae8-2d791f69fc5c
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"navbar-brand","page":"/","text":"STAR WARS SWAG","href":"/"}'
+    - '2015-09-26 18:34:09.845'
+  - - 12543abb-ff88-48da-a2fc-521a49e311e7
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"","href":"http://www.facebook.com/starwarsswag"}'
+    - '2015-09-26 23:15:32.096999'
+  - - 16303e50-6e5f-4736-928b-8949a637bd96
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"","href":"http://www.stumbleupon.com/submit?url=http://www.starwarsswag.com"}'
+    - '2015-09-27 00:16:53.325'
+  - - 1a1f35c7-cd84-41bd-bb6b-c7e1ba2fb052
+    - 45664208-8f94-4dcd-8867-802b3048c40e
+    - 
+    - "$view"
+    - '{"url":"http://localhost:3000/","title":"Star Wars Swag","page":"/"}'
+    - '2015-09-26 18:14:07.115'
+  - - 4810d12c-df89-4fd1-99d6-e42dd02aea76
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"input","class":"btn btn-primary","page":"/","text":"Sign Up"}'
+    - '2015-09-26 22:58:46.740999'
+  - - 4a9d2c58-5d50-43c6-9b80-0e8908b978e3
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"button","class":"navbar-toggle","page":"/","text":"Toggle navigation"}'
+    - '2015-09-26 23:48:54.586999'
+  - - 51842231-6c98-44f5-b40c-d9bf1fe8d1f2
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"Home Goods","href":"/home_goods"}'
+    - '2015-09-26 23:45:17.234999'
+  - - 5851db46-6b8c-4ed1-b1af-cc26af081fcb
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$view"
+    - '{"url":"http://localhost:3000/","title":"Star Wars Swag","page":"/"}'
+    - '2015-09-26 18:14:20.082'
+  - - 611915ac-7875-4f0e-b611-9e0373f92a58
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$view"
+    - '{"url":"http://localhost:3000/","title":"Star Wars Swag","page":"/"}'
+    - '2015-09-26 18:20:24.68'
+  - - 631af2b0-f8ac-4b6c-8c94-fa9db2b8e7ae
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"button","class":"navbar-toggle","page":"/","text":"Toggle navigation"}'
+    - '2015-09-26 23:48:42.503999'
+  - - 67b1694d-7935-4750-a717-ec8004136705
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"input","class":"btn btn-primary","page":"/users/sign_in","text":"Sign
+      in"}'
+    - '2015-09-26 19:19:29.980999'
+  - - 6f43f5cb-8f3d-46a4-ba27-54d1cf9cc303
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"close","page":"/","text":"×","href":"#"}'
+    - '2015-09-26 19:28:48.483'
+  - - 8e1ea2e7-06e8-4b4d-baef-0f47486a8178
+    - c435efea-4115-4577-b194-817566165a79
+    - '1'
+    - "$click"
+    - '{"tag":"a","class":"dropdown-toggle","page":"/admin","text":"Admin","href":"#"}'
+    - '2015-09-26 19:28:44.145999'
+  - - 9388625d-a3c9-4c65-a3f8-ca7951df4fc8
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"button","class":"navbar-toggle","page":"/","text":"Toggle navigation"}'
+    - '2015-09-26 23:48:41.719'
+  - - 93b86e74-0623-4e04-93ed-ee61d7f6678a
+    - c435efea-4115-4577-b194-817566165a79
+    - '1'
+    - "$click"
+    - '{"tag":"a","class":"close","page":"/admin","text":"×","href":"#"}'
+    - '2015-09-26 19:20:25.006999'
+  - - 958dc410-133e-4704-894f-ae0d1d5cfc12
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"navbar-brand","page":"/","text":"STAR WARS SWAG","href":"/"}'
+    - '2015-09-26 18:14:25.835999'
+  - - 9c37c10c-66b1-4457-9a68-b7f7ef84547f
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"Apparel","href":"/apparel"}'
+    - '2015-09-26 18:33:38.072'
+  - - 9c7091e2-3bae-4452-9525-9dde8f05575a
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"button","class":"navbar-toggle","page":"/","text":"Toggle navigation"}'
+    - '2015-09-26 23:48:51.644'
+  - - 9d338ba8-e648-40c2-87cf-c413d28eb0b9
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"product-image img-responsive","page":"/","text":"","href":"http://www.amazon.com/Star-Wars-Black-Series-6-Inch/dp/B00SD8I11G%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I11G"}'
+    - '2015-09-26 18:16:43.898'
+  - - 9fe8c479-abee-418f-8493-0fdb67be7293
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"","href":"http://www.amazon.com/Funko-Pop-Star-Wars-Stormtrooper/dp/B013G0J7FO/?tag=stwasw-20"}'
+    - '2015-09-26 18:33:28.088'
+  - - a099f28d-e493-4b14-b2b5-291cbacd6a27
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/admin","text":"Log Out","href":"/users/sign_out"}'
+    - '2015-09-26 19:28:45.322'
+  - - a438b0f8-5e1c-4f6d-91c6-5eb9f447fcd2
+    - c435efea-4115-4577-b194-817566165a79
+    - '1'
+    - "$click"
+    - '{"tag":"a","class":"navbar-brand","page":"/admin","text":"STAR WARS SWAG","href":"/"}'
+    - '2015-09-26 19:28:40.993999'
+  - - a7a78327-8bd0-462d-bcfb-8ce78f40c5c3
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"dropdown-toggle","page":"/admin","text":"Admin","href":"#"}'
+    - '2015-09-26 19:20:09.684999'
+  - - a93a3eef-609f-4405-b5ef-c62d24e4d85c
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"close","page":"/","text":"×","href":"#"}'
+    - '2015-09-26 22:41:39.069999'
+  - - ab2511ab-2b8f-4d34-8a11-767f2eb05b61
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"product-image img-responsive","page":"/","text":"","href":"http://www.amazon.com/Star-Wars-Black-Series-6-Inch/dp/B00SD8I11G%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SD8I11G"}'
+    - '2015-09-26 18:14:31.66'
+  - - b314d001-c20b-4c11-bc1c-ca93a4000c8c
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"","href":"http://www.facebook.com/starwarsswag"}'
+    - '2015-09-26 23:56:08.611999'
+  - - b58e5a6f-ab21-4ffd-9778-1365ee7c3857
+    - c435efea-4115-4577-b194-817566165a79
+    - '1'
+    - "$click"
+    - '{"tag":"input","class":"btn btn-primary","page":"/users/sign_in","text":"Sign
+      in"}'
+    - '2015-09-26 19:20:20.543999'
+  - - c18093bd-d636-440c-a367-3440c7c97388
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"input","class":"btn btn-md btn-primary","page":"/","text":"Sign Up"}'
+    - '2015-09-26 22:41:34.098999'
+  - - c1f0ca9a-0d01-457d-9a1d-b841c870e260
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"product-image img-responsive","page":"/","text":"","href":"http://www.amazon.com/Star-Wars-Episode-Stormtrooper-Blaster/dp/B00SOFZT8G%3Fpsc%3D1%26SubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00SOFZT8G"}'
+    - '2015-09-26 18:16:26.217'
+  - - c248bc68-9b5a-4e3e-bd09-255ecc051707
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"input","class":"btn btn-md btn-primary","page":"/","text":"Sign Up"}'
+    - '2015-09-26 22:41:09.937999'
+  - - c3d99a84-c24c-4b1d-a0c7-e49b0a261a0d
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/admin","text":"Log Out","href":"/users/sign_out"}'
+    - '2015-09-26 19:20:10.543999'
+  - - c82d38df-9c4e-4e9f-9915-acf9a345ac7c
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"btn btn-stumbleupon","page":"/","text":"","href":"http://www.stumbleupon.com/submit?url=http://www.starwarsswag.com"}'
+    - '2015-09-27 00:11:03.260999'
+  - - cbb1c465-17fa-4714-b850-de9d012342ab
+    - c435efea-4115-4577-b194-817566165a79
+    - '1'
+    - "$click"
+    - '{"tag":"a","class":"close","page":"/admin","text":"×","href":"#"}'
+    - '2015-09-26 19:20:07.336999'
+  - - d9ccf910-50ed-435a-b862-470963a6bac0
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"","href":"http://www.facebook.com/starwarsswag"}'
+    - '2015-09-26 23:55:28.657999'
+  - - e9d28f82-858f-4eef-8c15-7a24cc130a61
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","page":"/","text":"Jewlery","href":"/accessories"}'
+    - '2015-09-26 18:14:23.714999'
+  - - faceeef5-6c0d-4834-a120-6d400dd09ee6
+    - c435efea-4115-4577-b194-817566165a79
+    - 
+    - "$click"
+    - '{"tag":"a","class":"product-image img-responsive","page":"/","text":"","href":"http://www.amazon.com/Star-Wars-Imperial-Assault-Game/dp/1616619902%3FSubscriptionId%3DAKIAJQ4ZVMGIK7Y2GD4A%26tag%3Dstwasw-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1616619902"}'
+    - '2015-09-26 18:20:28.947999'
+
+---
+subscriptions:
+  columns:
+  - id
+  - email
+  - created_at
+  - updated_at
+  records: 
+  - - '1'
+    - codes@gmail.com
+    - '2015-09-26 22:33:38.488843'
+    - '2015-09-26 22:33:38.488843'
+  - - '2'
+    - boba@fett.com
+    - '2015-09-26 22:58:46.801802'
+    - '2015-09-26 22:58:46.801802'

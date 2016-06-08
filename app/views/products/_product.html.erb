@@ -1,0 +1,30 @@
+<div id=<%= "product-#{product.id}" %> class="col-xs-18 col-sm-4 col-md-3 product">
+	<div class="productbox">
+		<div class="product-image">
+			<%= link_to image_tag(product.image_url), product.affiliate_url, rel: 'nofollow', target: '_blank', class: 'product-image img-responsive' %>
+		</div>
+		<div class="caption">
+			<h5><%= product.name %></h5>
+      <% if product.on_sale? %>
+        <s class="text-muted"><%= number_to_currency(product.to_dollars(product.list_price))%></s>
+      <% end %> 
+        <b class="finalprice"><%= number_to_currency(product.to_dollars(product.final_price)) %></b>
+        <% if user_signed_in? %>
+          <p>
+            <%= link_to edit_product_path(product), class: "product-edit-link" do %>
+              <i class="fa fa-pencil-square-o"></i>Edit
+            <% end %>
+          </p>
+          <% end %>
+      <p>
+        <%= link_to("View", product.affiliate_url , class: 'btn btn-primary btn-md btn-block', rel: 'nofollow', target: '_blank') %>
+        <%= link_to("Delete", product, method: :delete, data: { confirm: "Remove this product?" }, class: 'btn btn-danger btn-md btn-block') if user_signed_in? %>
+       </p>
+     </div>
+      <% if product.on_sale? %>
+        <div class="saleoffrate">
+          <b><%= number_to_percentage(product.percent_off, precision: 0)%></b><br>OFF
+        </div>
+      <% end %>
+	</div>
+</div>

@@ -1,0 +1,14 @@
+	<div class="container">
+		<div class="row">
+			<%= simple_form_for @product do |f| %>
+				<%= f.input :name, class: "form-control" %>
+				<%= f.input :affiliate %>
+				<%= f.input :affiliate_url %>
+				<%= f.input :list_price %>
+				<%= f.input :final_price %>
+				<%= f.input :category %>
+				<%= f.input :image_url %>
+				<%= f.submit @product.new_record? ? "Add Product" : "Update Product", class: "btn btn-primary product-form-button" %> 
+			<% end %>
+		</div>
+	</div>

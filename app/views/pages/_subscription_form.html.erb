@@ -1,0 +1,21 @@
+<div class="thumbnail center well well-small text-center">
+    <h2>STAR WARS SWAG DEALS</h2>
+    <p>Subscribe to our Newsletter for special offers and the best deals in this, or any other galaxy! We promise not to spam you, unsubscrube anytime.</p>
+    <%= form_for @subscription, url: subscriptions_url, html: { class: "form-inline" } do |f| %>
+    	<%= f.email_field :email, class: "form-control form-inline", placeholder: "boba@fett.com" %>
+    	<%= f.submit "Sign Up", class: "btn btn-primary" %>
+    <% end %>
+    <div id="facebook-follow">
+    	Follow us on Facebook
+    	<%= link_to "http://www.facebook.com/starwarsswag", target: "_blank" do %>
+	      <i class="fa fa-facebook-official fa-2x" id="facebook-page-icon"></i>
+    	<% end %>
+    </div>
+    <div id="stumbleupon-submit">
+        Share on StumbleUpon
+        <%= link_to "http://www.stumbleupon.com/submit?url=http://www.starwarsswag.com", target: "_blank" do %>
+            <i class="fa fa-stumbleupon-circle fa-2x" id="stumbleupon-submit-icon"></i>
+        <% end %>
+    </div>
+    
+</div>
